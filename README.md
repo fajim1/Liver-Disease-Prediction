@@ -15,6 +15,6 @@ Lichman, M. (2013). UCI Machine Learning Repository [http://archive.ics.uci.edu/
 
 # Using the Files
 The .csv file shows the raw data used for the project. 
-The .Rmd file shows all the code and write-up. This file can be downloaded and knitted to get the final output.
-The .html file is the knitted R-Markdown file. The rendered file can be found at https://fajim1.github.io/Movies-Analysis/
-The .ppt file contains my groups presentation slides for this project.
+The .ipynb file shows all the code and write-up. This file can be downloaded and run to get the final output.
+The .html file is the run ipynb file. The rendered file can be found at https://fajim1.github.io/Liver-Disease-Prediction/
+The .ppt file contains my group's presentation slides for this project.
