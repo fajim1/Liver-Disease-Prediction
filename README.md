@@ -1,15 +1,17 @@
 # Liver-Disease-Prediction
+Patients with Liver disease have been continuously increasing because of excessive consumption of alcohol, inhale of harmful gases, intake of contaminated food, drugs, etc. This dataset was used to construct, evaluate and tune different models in order to predict patients with liver disease in an effort to reduce burden on doctors
 
-Construct and evaluate different kinds of models to predict a movie’s revenue and profitability as well as evaluate models to find the best predictive model
 
 # Motivation
-This project was performed as part of a group for an intro to data science class at the George Washington University. The requirement for this project was to find a sizeable dataset and perform Pre-processing, EDA, Statistial tests (chi-square,anova) and predictive modeling.
+This project was performed as part of a group for my Artificial Intelligence course during my undergrad. The requirement for this project was to find a sizeable dataset and perform Pre-processing, EDA and predictive modeling. 
+
+Patients with Liver disease have been continuously increasing because of excessive consumption of alcohol, inhale of harmful gases, intake of contaminated food, pickles and drugs. This dataset was used to evaluate prediction algorithms in an effort to reduce burden on doctors
 
 # Data Source
 
-The dataset consists of movies released on or before July 2017. Data points include cast, crew, plot keywords, budget, revenue, posters, release dates, languages, production companies, countries, TMDB vote counts and vote averages.
+This dataset was downloaded from the UCI ML Repository:
 
-This dataset also has files containing 26 million ratings from 270,000 users for all 45,000 movies. Ratings are on a scale of 1-5 and have been obtained from the official GroupLens website.
+Lichman, M. (2013). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
 
 # Using the Files
 The .csv file shows the raw data used for the project. 
