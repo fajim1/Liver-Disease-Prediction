@@ -5,8 +5,6 @@ Patients with Liver disease have been continuously increasing because of excessi
 # Motivation
 This project was performed as part of a group for my Artificial Intelligence course during my undergrad. The requirement for this project was to find a sizeable dataset and perform Pre-processing, EDA and predictive modeling. 
 
-Patients with Liver disease have been continuously increasing because of excessive consumption of alcohol, inhale of harmful gases, intake of contaminated food, pickles and drugs. This dataset was used to evaluate prediction algorithms in an effort to reduce burden on doctors
-
 # Data Source
 
 This dataset was downloaded from the UCI ML Repository:
